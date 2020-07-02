@@ -5,10 +5,10 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:prod": "ng build --prod --base-href=/geometeo/",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "deploy:ci": "ng deploy --base-href=/geometeo/  --name='cuj1971' --email='mmcconnachie@gmail.com'"
   },
   "private": true,
   "dependencies": {
