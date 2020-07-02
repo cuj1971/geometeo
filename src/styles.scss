@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+ion-header, ion-toolbar, ion-title{
+--background: var(--ion-color-dark);
+color: var(--ion-color-light);
+}
+ion-content, ion-card, ion-card-header, ion-card-content{
+--background: var(--ion-color-dark);
+color: var(--ion-color-light);
+text-align: center;
+}
+
+ion-card-title{
+--background: var(--ion-color-dark);
+color: var(--ion-color-light);
+text-align: center;
+}
+
+ion-card-subtitle{
+--background: var(--ion-color-dark);
+color: var(--ion-color-light);
+text-align: center;
+}
+
+ion-list, ion-label, ion-item{
+--background: var(--ion-color-dark);
+color: var(--ion-color-light);
+text-align: center;
+}

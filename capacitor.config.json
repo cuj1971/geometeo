@@ -1,0 +1,13 @@
+{
+  "appId": "ch.cuj1971.geometeo",
+  "appName": "geometeo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
